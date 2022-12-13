@@ -1,5 +1,5 @@
 # DATASET
-Follow this [link] (https://drive.google.com/drive/folders/1VMNiBCco6344nm_4Hv4-0xJyoqHS5Kef?usp=sharing) to download the dataset used in this project OR use your own dataset.
+Follow this [link](https://drive.google.com/drive/folders/1VMNiBCco6344nm_4Hv4-0xJyoqHS5Kef?usp=sharing) to download the dataset used in this project OR use your own dataset.
 
 
 # Rice-Disease-Detection
