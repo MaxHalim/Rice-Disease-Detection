@@ -19,7 +19,7 @@ The algorithm was trained using the Jetson Nano using a retrained resnet18 model
 2. Go into the docker container (cd into jetson-inference and enter 'docker/run.sh' then cd into jetson-inference/python/training/classification.
 
 3. ls into models just to check if your model is actually there
- ![image](https://user-images.githubusercontent.com/111213472/207396899-0b4f50fd-1c27-47b9-9592-853d864c4d25.png)
+![image](https://user-images.githubusercontent.com/111213472/207396899-0b4f50fd-1c27-47b9-9592-853d864c4d25.png)
  
 4. Run this command to test for one image - imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/leafblight/DSC_0400.jpg rice.jpg - The directory test/leafblight/DSC_0400.jpg can be changed to whichever directory you want.
 - This command will run the imagenet program and will input an image of your choice and then will output the image and it's determined group. You should be able to find a file named 'rice.jpg' or whatever else you chose to name it.
