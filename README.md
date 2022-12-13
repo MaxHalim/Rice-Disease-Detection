@@ -1,6 +1,8 @@
 # DATASET
 Follow this [link](https://drive.google.com/drive/folders/1VMNiBCco6344nm_4Hv4-0xJyoqHS5Kef?usp=sharing) to download the dataset used in this project OR use your own dataset.
+Follow this [link](https://drive.google.com/file/d/1C-rG3wpCDPLtKplDCtl6dwTtubjMDzYR/view?usp=sharing) to download the model used in this project
 
+Sorry for having to use a drive link for this, the files/folders themselves were too large for github so I was forced to upload it via Google Drive :)
 
 # Rice-Disease-Detection
 The project tells us whether or not an image of a rice plant is healthy using image classification. Where I live, rice is a very important resource and a major part of our economy, so it is extremely important for us to be able to monitor the condition of the rice crops.
