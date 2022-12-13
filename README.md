@@ -30,3 +30,6 @@ The algorithm was trained using the Jetson Nano using a retrained resnet18 model
 
 5. To test the rest of the dataset, run imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/<Category 1 Name> $DATASET/test_output_<Category 1 Name>
 
+
+
+Here is a link to my [Demonstration Video](https://youtu.be/rDJ6o25FVDo).
